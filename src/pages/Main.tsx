@@ -18,9 +18,8 @@ const Main = () => {
 const Section = styled.section`
   display: flex;
   gap: 250px;
-  position: relative;
-  top: 180px;
-  left: 300px;
+  margin-top: 180px;
+  margin-left: 300px;
 `;
 
 export default Main;
